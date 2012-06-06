@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://philadelphia.craigslist.org/bia/index.rss">
+<title>craigslist | bicycles - all in philadelphia</title>
+<link>http://philadelphia.craigslist.org/bia/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>http://philadelphia.craigslist.org/bia/index.rss</dc:source>
+<dc:title>craigslist | bicycles - all in philadelphia</dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2012-06-05T21:32:58-04:00</syn:updateBase>
+<syn:updateFrequency>4</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bid/3060029840.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3045222022.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3060020733.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3060016238.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3060009120.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3060008381.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3060004464.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3053863235.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3014948399.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059996820.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059988433.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054972397.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3042267843.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3051009676.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3042349000.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3047909564.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059948115.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059942649.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3043621534.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3048573310.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3010464266.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059902296.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059898456.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059891453.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059886378.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059878243.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059866159.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059863555.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3034881584.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3034879946.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059850449.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3042355204.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3013004206.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059840798.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3051793026.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059834841.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054594089.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059806272.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059804047.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059786361.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3052327010.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059763450.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059742920.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3049982057.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059718816.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3047833734.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059695640.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3001681961.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059670233.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3001748705.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059666931.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3043454801.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059660900.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059659791.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059649077.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3047702748.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059635532.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3042926781.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3041385735.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059592711.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059572412.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059566688.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3051260122.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059561946.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059556202.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3023084035.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059540469.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059513205.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059510009.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059509890.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3041053770.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054453361.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3012656882.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054452816.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054454394.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3014283485.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3014247416.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3001020214.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3001117344.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3028773834.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3044132526.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054316492.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059494489.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059491865.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3001017583.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3045234661.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3045219072.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3000988397.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3045206866.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059468608.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3054460688.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3015951974.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3047669651.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3015931840.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059433650.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059420071.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059411091.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059404580.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059401857.html" />
+  <rdf:li rdf:resource="http://philadelphia.craigslist.org/bik/3059394495.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://philadelphia.craigslist.org/bid/3060029840.html">
+<title><![CDATA[Electric Bike Kit for your bike 700 Watts 36 Volts (Mt Airy) $333]]></title>
+<link>http://philadelphia.craigslist.org/bid/3060029840.html</link>
+<description><![CDATA[36v 700w 26 Inch front Wheel Electric Bicycle Motor Conversion Kit<br>
+Do you want to own a very cool electric power bike, so that you can go for a ride around effortlessly?<br>
+We are introducing a  700W 36V 26" Electric Bicycle Front Hub Conversion Kit which meets your requirement of converting your bike to an electric powered  in much more reasonable price.<br>
+<br>
+    Approx. 18 mph top speed<br>
+    Provides you with a whole wheel with tire, not just the tire frame<br>
+    Takes less than hour to install<br>
+   <br>
+Feature:<br>
+<br>
+    1. The kit includes motorized wheel, motor controller, battery charger, thumb throttle, power break lever, wire harness<br>
+    2. Quiet and reliable brush less gear less hub motor<br>
+    3. Motor specifications: 36v / 700w / 300rpm<br>
+    4. High motor efficiency: &gt;75%<br>
+    5. Motor diameter: 245mm<br>
+    6. Reinforced 32mm rim and 40mm tire<br>
+    6. Drive system has no moving chains or gears, no friction, more efficient, less chance to break!<br>
+    7. Brake shuts off motor automatically, saves energy, improves safety!<br>
+    8. Thumb throttle with 3 LED's indicator lights<br>
+    9. Battery charger for charging sealed-lead-acid battery (SLA)<br>
+    10. Durable 600D Oxford cloth carrying bag along with a zippered main compartment for battery<br>
+<br>
+Package content:<br>
+<br>
+    --Powerful 700W 36V brush less hub motor<br>
+    --26" front wheel (the whole wheel with tire!)<br>
+    --Battery charger<br>
+    --2 brake pullers<br>
+    --Electric controller<br>
+    --Thumb gear changer with battery power indicator<br>
+    --Battery power indicator<br>
+    --2ea. handlebar grips<br>
+    --Rubber connecting harness (color will pick at random)<br>
+    --Battery not included<br>
+    Special: Comes with upgraded battery carrying bag and end bracket for FREE <br>
+<br>
+Battery NOT included<br>
+<br>
+Philly Electric Wheels<br>
+7102 Germantown Ave<br>
+Philadelphia, PA 19119<br>
+215 921 9266<br>
+www.phillyew.com<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Mt Airy -->Location: Mt Airy</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:29:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bid/3060029840.html</dc:source>
+<dc:title><![CDATA[Electric Bike Kit for your bike 700 Watts 36 Volts (Mt Airy) $333]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:29:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3045222022.html">
+<title><![CDATA[mongoose cheap ( NEW LOWER PRICE) (claymont DE)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3045222022.html</link>
+<description><![CDATA[selling a mongoose delinquent for $60obo<br>
+wheel size is 20 has new brakes & a new seat<br>
+rides real smooth good bike brakes are new so when you stop they squeak a little<br>
+open to trades email or text 302 521 1805 TEXT ONLY <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=claymont DE -->Location: claymont DE</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:23:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3045222022.html</dc:source>
+<dc:title><![CDATA[mongoose cheap ( NEW LOWER PRICE) (claymont DE)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:23:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3060020733.html">
+<title><![CDATA[Hog Rider Adult Chopper (South Jersey 08065) $200]]></title>
+<link>http://philadelphia.craigslist.org/bik/3060020733.html</link>
+<description><![CDATA[Up for sale I have a adult chopper made by hog rider. Perfect beach cruiser or neighborhood show bike. Asking 200.00 or best offer.<br>
+If your interested please call Abe.<br>
+856-313-9761.<br>
+Thank you.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=South Jersey 08065 -->Location: South Jersey 08065</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:23:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3060020733.html</dc:source>
+<dc:title><![CDATA[Hog Rider Adult Chopper (South Jersey 08065) $200]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:23:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3060016238.html">
+<title><![CDATA[26 womens girls bike (Springfiels 19064) $20]]></title>
+<link>http://philadelphia.craigslist.org/bik/3060016238.html</link>
+<description><![CDATA[Classic Hampton Cruiser<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Springfiels 19064 -->Location: Springfiels 19064</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:20:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3060016238.html</dc:source>
+<dc:title><![CDATA[26 womens girls bike (Springfiels 19064) $20]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:20:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3060009120.html">
+<title><![CDATA[20 inch Girls bike (Springfield 19064) $12]]></title>
+<link>http://philadelphia.craigslist.org/bik/3060009120.html</link>
+<description><![CDATA[20 inch wheel girls bike<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Springfield 19064 -->Location: Springfield 19064</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:16:40-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3060009120.html</dc:source>
+<dc:title><![CDATA[20 inch Girls bike (Springfield 19064) $12]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:16:40-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3060008381.html">
+<title><![CDATA[Orange Haro Supra (Warrington) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3060008381.html</link>
+<description><![CDATA[Haro Supra BMX bike. Top of the line frame and great bike to mod. To make it your own... Great for dirt trails and jumps... 214-546-5103 call if intrested!!! <br>
+<br>
+Best offer takes it!!!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Warrington -->Location: Warrington</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:16:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3060008381.html</dc:source>
+<dc:title><![CDATA[Orange Haro Supra (Warrington) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:16:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3060004464.html">
+<title><![CDATA[Lotus mens road bike (South Jersey 08065) $175]]></title>
+<link>http://philadelphia.craigslist.org/bik/3060004464.html</link>
+<description><![CDATA[Up for sale I have a mens lotus 10-speed. It has a 22" down tube so its built for a tall rider. New tires and a cloud nine gel comfort seat.<br>
+If your interested please call Abe.<br>
+856-313-9761.<br>
+Thank you. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=South Jersey 08065 -->Location: South Jersey 08065</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:13:55-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3060004464.html</dc:source>
+<dc:title><![CDATA[Lotus mens road bike (South Jersey 08065) $175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:13:55-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3053863235.html">
+<title><![CDATA[black 20inch gt mags (s.phila) $40]]></title>
+<link>http://philadelphia.craigslist.org/bik/3053863235.html</link>
+<description><![CDATA[just like it says, i'm selling a pair of black gt mags for a 20" bike. 1st $40 takes them. if interested i'll text you a pic, my # is 2679715181  thanks<br>
+-stan<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.phila -->Location: s.phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:10:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3053863235.html</dc:source>
+<dc:title><![CDATA[black 20inch gt mags (s.phila) $40]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:10:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3014948399.html">
+<title><![CDATA[20inch haro bmx (south philly) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3014948399.html</link>
+<description><![CDATA[hey, i've got a nice 20 inch black haro bmx bike. it's about 10 y/o but in great shape. this bikes a beast, i got it for $200 about a year ago n have recently got a bigger bike and no longer ride it. it has pretty much all haro fusion parts. text me for quick response, i can text a pic, my # is 2679715181<br>
+-thanks stan<br>
+obo<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=south philly -->Location: south philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:09:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3014948399.html</dc:source>
+<dc:title><![CDATA[20inch haro bmx (south philly) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:09:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059996820.html">
+<title><![CDATA[Sequoia- Specialized (Philly) $600]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059996820.html</link>
+<description><![CDATA[2009 Specialized Sequoia.  Excellent condition aluminum road bike with carbon fork and Shimano Sora/Tiagra STI drivetrain. Has cage and computer on it It has new saddle and cage pedals Less than 500 miles on this bike, it rides and shifts well. It has just been cleaned, tuned, lubed & waxed.  Small frame- fits riders 5'2-5'7.  Great ride, comfortable bike, looking to upgrade.  Pics on request. Will negotiate somewhat on price.  Will meet for test drive. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Philly -->Location: Philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:09:18-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059996820.html</dc:source>
+<dc:title><![CDATA[Sequoia- Specialized (Philly) $600]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:09:18-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059988433.html">
+<title><![CDATA[70s Silver/Blue Raleigh Grand Prix - Tall 64cm- great for fixie or ss (Center City) $80]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059988433.html</link>
+<description><![CDATA[Hello, <br>
+<br>
+Here is a sweet Grand Prix frame and parts that I was going to make into a fixie, but I'm 6'6" and its just a little too small for me, and  I never got around to doing it.   It has everything you see in the picture, I will give you the box of parts (the ten spd parts) that has a few more odds and ends than are pictured, and the bike. I believe pretty much everything is there to get it operational as a 10 spd. but there may be a nut or bolt missing, etc.  Here are the measurements: It has a 34&1/2'' stand over height. 23" from center of seat post to center of stem. 25&1/2'' from center of crank to center of stem tube. It has a Brooks saddle (not leather though) . I have the bike in Center City, give me an email if you have questions or want to come get it! I don't feel like storing it over the summer, so it needs to be gone by the end of the weekend.  For this reason I have it listed very cheap.  Sorry for the crappy pictures.<br>
+<br>
+Cheers, <br>
+<br>
+John <br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Center City -->Location: Center City</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T21:04:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059988433.html</dc:source>
+<dc:title><![CDATA[70s Silver/Blue Raleigh Grand Prix - Tall 64cm- great for fixie or ss (Center City) $80]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T21:04:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054972397.html">
+<title><![CDATA[99 HARO REVO TWIN TOP TUBE VGC (MAPLE SHADE) $175]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054972397.html</link>
+<description><![CDATA[99 HARO REVO COMPLETLY ORIGONAL AND IN EXCELLENT CONDITION.<br>
+KEEP IT AS IS, OR MAKE A MASTER TRIBUTE.<br>
+HAVE OG REFLECTORS AND CHAINGUARD ALSO<br>
+A MUST SEE BIKE.<br>
+175 OR B/O<br>
+CALL OR TEXT RICH 856 200 6068<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=MAPLE SHADE -->Location: MAPLE SHADE</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:50:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054972397.html</dc:source>
+<dc:title><![CDATA[99 HARO REVO TWIN TOP TUBE VGC (MAPLE SHADE) $175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:50:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3042267843.html">
+<title><![CDATA[frame    (langhorne) $1]]></title>
+<link>http://philadelphia.craigslist.org/bik/3042267843.html</link>
+<description><![CDATA[ good cond.   21"      think it a (stolen) make offer<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=langhorne -->Location: langhorne</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:49:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3042267843.html</dc:source>
+<dc:title><![CDATA[frame    (langhorne) $1]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:49:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3051009676.html">
+<title><![CDATA[huffy beach cruiser frame (langhorne) $1]]></title>
+<link>http://philadelphia.craigslist.org/bik/3051009676.html</link>
+<description><![CDATA[the bike has a lot of rust, the frame still looks solid give cell number ill send pic....best offer takes it<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=langhorne -->Location: langhorne</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:48:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3051009676.html</dc:source>
+<dc:title><![CDATA[huffy beach cruiser frame (langhorne) $1]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:48:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3042349000.html">
+<title><![CDATA[Havnoonian XL BMX (Roxborough) $500]]></title>
+<link>http://philadelphia.craigslist.org/bik/3042349000.html</link>
+<description><![CDATA[Lightly used/not raced Havnoonian XL Phat Jawn BMX powder coated all black with mostly black components. Primo, Profile, and other premium components.<br>
+<br>
+Harry Havnoonian is a custom frame builder in Media, Pa.<br>
+<br>
+Please email for pics or other measurements<br>
+<br>
+DO NOT email asking if the item is still available. Listing will be taken down when item is sold!<br>
+<br>
+$500 <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Roxborough -->Location: Roxborough</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:42:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3042349000.html</dc:source>
+<dc:title><![CDATA[Havnoonian XL BMX (Roxborough) $500]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:42:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3047909564.html">
+<title><![CDATA[BMX HARO X-1 (bensalem pa 19020) $115]]></title>
+<link>http://philadelphia.craigslist.org/bik/3047909564.html</link>
+<description><![CDATA[Hey guys :)<br>
+i have this nice and clean bike.<br>
+It rides reeaall smooth! <br>
+i bought it brand new for 250 bills<br>
+it has a few scratches and scuffs but that comes with biking right ;)<br>
+its a wicked orange almost neon!<br>
+i would really like at least $115 but the lowest i can go is $110<br>
+or i can do a trade with some more money involved.<br>
+just shoot me an email or text or give me a buzz on my cell! the worst i can say is no right :) <br>
+so just hit me up @ 267-566-1852 my names rob <br>
+thanks !<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=bensalem pa 19020 -->Location: bensalem pa 19020</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:41:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3047909564.html</dc:source>
+<dc:title><![CDATA[BMX HARO X-1 (bensalem pa 19020) $115]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:41:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059948115.html">
+<title><![CDATA[1990 gt performer  (South jersey ) $175]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059948115.html</link>
+<description><![CDATA[90 gt performer it's green and yellow asking 175 cuz I wanna sell it ASAP text for pics! 609-417-2175 <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=South jersey  -->Location: South jersey </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:40:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059948115.html</dc:source>
+<dc:title><![CDATA[1990 gt performer  (South jersey ) $175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:40:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059942649.html">
+<title><![CDATA[Crossroads Elite (Dublin,Pa) $280]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059942649.html</link>
+<description><![CDATA[Specialized Crossroads Elite bike. Charcoal color. Large frame. Great condition. Was $470 new. Asking $280 obo<br>
+call 215-534-4136<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Dublin,Pa -->Location: Dublin,Pa</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:37:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059942649.html</dc:source>
+<dc:title><![CDATA[Crossroads Elite (Dublin,Pa) $280]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:37:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3043621534.html">
+<title><![CDATA[VINTAGE 1976 LADIES' SCHWINN PARAMOUNT (Chester County)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3043621534.html</link>
+<description><![CDATA[PARAMOUNT from the Classic Years from 1958 to 1979. This is the period when Paramount dominated the US pro bike scene and inspired many a racer and builder.<br>
+<br>
+LADIES' SCHWINN PARAMOUNT model # P65-9 <br>
+<br>
+Size 22" ( 56 X 56 ) fits 5' 5" to 6' Depends on your build and riding preferences<br>
+<br>
+ALL STANDARD PARAMOUNT EQUIPTMENT : REYNOLDS 531 FRAME TUBING <br>
+Campagnolo RECORD hubs - and the hard to find tripple crank.<br>
+<br>
+This is A UN-MOLESTED ALL ORIGINAL AS NEW BIKE !<br>
+<br>
+1200 US DOLLARS CASH ONLY<br>
+<br>
+NO SHIPPING - PICKUP ONLY<br>
+<br>
+I am near JENNERSVILLE PA 19390 <br>
+<br>
+NOTE : IF YOU ARE INTERESTED AND HAVE CASH - RESPOND WITH A PHONE NUMBER YOU WILL ANSWER. <br>
+<br>
+I WILL NOT LEAVE A MESSAGE<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:30:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3043621534.html</dc:source>
+<dc:title><![CDATA[VINTAGE 1976 LADIES' SCHWINN PARAMOUNT (Chester County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:30:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3048573310.html">
+<title><![CDATA[BONTRAGER bike shop sign (Chester County)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3048573310.html</link>
+<description><![CDATA[BONTRAGER sign<br>
+<br>
+Keith Bontrager built his first road bike in 1979 <br>
+<br>
+HEAVY STEEL sign - 20" Diameter - weight over 10 pounds <br>
+<br>
+~ two HUNDRED U.S. DOLLARS CASH - SHIPPING to lower 48 US states Available<br>
+<br>
+I am near Jennersville PA 19390 <br>
+<br>
+If you are interested please respond with a phone contact number - <br>
+I WILL NOT LEAVE A MESSAGE IF YOU DO NOT ANSWER. <br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:30:42-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3048573310.html</dc:source>
+<dc:title><![CDATA[BONTRAGER bike shop sign (Chester County)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:30:42-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3010464266.html">
+<title><![CDATA[Mountain Bike Bontrager Privateer Rasta Medium (West Chester) $450]]></title>
+<link>http://philadelphia.craigslist.org/bik/3010464266.html</link>
+<description><![CDATA[1999 Bontrager Privateer with Rasta design. Medium Frame. Paul Components rear cantilever brakes, and brake handles. Front avid mechanical disc brake, Thompson Stem, Carbon Fiber Monkey Bars, SRAM drivetrain, XO derailleur. Needs a good home. Everything works and is in good condition. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=West Chester -->Location: West Chester</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:20:43-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3010464266.html</dc:source>
+<dc:title><![CDATA[Mountain Bike Bontrager Privateer Rasta Medium (West Chester) $450]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:20:43-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059902296.html">
+<title><![CDATA[Trek 1200 SL Road Bike (Aluminum Frame/Carbon Forks) (Newtown PA) $600]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059902296.html</link>
+<description><![CDATA[Trek 1200 SL manufactured either 2006 or 2007. Very lightweight bike.<br>
+This bicycle is in great condition and a good starter if you're new to cycling in general and would like a solid road bike.<br>
+I'm looking to upgrade to a properly sized bike (the frame size is 50cm and a bit small for me). I've had it tuned up just last week so it's ready to go as soon as you purchase it.<br>
+<br>
+The bike is practically brand new with only a few minor scratches and has about 300 miles on it. Price negotiable.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Newtown PA -->Location: Newtown PA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:14:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059902296.html</dc:source>
+<dc:title><![CDATA[Trek 1200 SL Road Bike (Aluminum Frame/Carbon Forks) (Newtown PA) $600]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:14:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059898456.html">
+<title><![CDATA[Schwinn Antique Bicycle (Exton) $60]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059898456.html</link>
+<description><![CDATA[Schwinn Antique Bicycle<br>
+Still in working condition<br>
+All original parts<br>
+Fully Functioning<br>
+$60<br>
+Will meet in Exton - Downingtown area<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Exton -->Location: Exton</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:12:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059898456.html</dc:source>
+<dc:title><![CDATA[Schwinn Antique Bicycle (Exton) $60]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:12:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059891453.html">
+<title><![CDATA[Set of 27 x 1 1/4 Road Tires (Forte Strada-K) (Art Museum) $15]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059891453.html</link>
+<description><![CDATA[Two 27 x 1 1/4 Road Tires (Forte Strada-K) for $15.  Kevlar coated.  Lightly used (ridden on 1 week before I sold the old bike frame).  Send me an email if you're interested.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Art Museum -->Location: Art Museum</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:08:56-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059891453.html</dc:source>
+<dc:title><![CDATA[Set of 27 x 1 1/4 Road Tires (Forte Strada-K) (Art Museum) $15]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:08:56-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059886378.html">
+<title><![CDATA[Mongoose BMX Bike (Oaks,PA 19456) $40]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059886378.html</link>
+<description><![CDATA[Used BMX Mongoose bike<br>
+<br>
+Been sitting around but needs nothing<br>
+<br>
+$40<br>
+<br>
+Call Text Email<br>
+<br>
+610-842-4417<br>
+<br>
+minutes from the King of Prussia mall<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Oaks,PA 19456 -->Location: Oaks,PA 19456</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:06:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059886378.html</dc:source>
+<dc:title><![CDATA[Mongoose BMX Bike (Oaks,PA 19456) $40]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:06:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059878243.html">
+<title><![CDATA[VINTAGE SCHWINN RACER (cc phila) $250]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059878243.html</link>
+<description><![CDATA[I'm selling a forest green SCHWINN RACER WITH ALL ITS ORIGINAL PARTS INTACT AND IN WORKING ORDER.<br>
+<br>
+IT INCLUDES A STURMY ARCHER 3 SPEED IN HUB GEAR AND SHIFTER AND ORIGINAL WHEELS      26" x 1 3/8<br>
+<br>
+SEAT IS VERY CUMFY AND SPOTLESS<br>
+<br>
+PLEASE CALL mE @ 267-2451-2589<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=cc phila -->Location: cc phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T20:01:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059878243.html</dc:source>
+<dc:title><![CDATA[VINTAGE SCHWINN RACER (cc phila) $250]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T20:01:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059866159.html">
+<title><![CDATA[53 cm Shogun 200 men's  (Temple university ) $120]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059866159.html</link>
+<description><![CDATA[This is a beautiful shogun 200. The tires are newer and have lots of life left. A few paint chips.  Handle bar tape newer and feels great. Frame straight and tires are true. Just had had derailleur tune up and shifts beautifully and quietly call me 6103160330 or email  Justin <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Temple university  -->Location: Temple university </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:55:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059866159.html</dc:source>
+<dc:title><![CDATA[53 cm Shogun 200 men's  (Temple university ) $120]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:55:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059863555.html">
+<title><![CDATA[Mens Dynacraft Aluminum Mountain Bike with dual shocks 2004 (Oaks, PA 19456) $80]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059863555.html</link>
+<description><![CDATA[Mens Mountain Bike<br>
+<br>
+Dynacraft<br>
+<br>
+Model # 8566-54t<br>
+<br>
+8-18-2004<br>
+<br>
+Needs some TLC <br>
+Chain, front brake<br>
+<br>
+Call / Text Email<br>
+<br>
+610-842-4417<br>
+<br>
+minutes from the King of Prussia Mall<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Oaks, PA 19456 -->Location: Oaks, PA 19456</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:53:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059863555.html</dc:source>
+<dc:title><![CDATA[Mens Dynacraft Aluminum Mountain Bike with dual shocks 2004 (Oaks, PA 19456) $80]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:53:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3034881584.html">
+<title><![CDATA[Roadmaster (Mt. Fury) Bike (Southampton,NJ) $30]]></title>
+<link>http://philadelphia.craigslist.org/bik/3034881584.html</link>
+<description><![CDATA[Roadmaster Mt. Fury Bike in good condition. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Southampton,NJ -->Location: Southampton,NJ</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:49:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3034881584.html</dc:source>
+<dc:title><![CDATA[Roadmaster (Mt. Fury) Bike (Southampton,NJ) $30]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:49:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3034879946.html">
+<title><![CDATA[Vintage Rollfast Girl's Bike (Southampton, NJ) $80]]></title>
+<link>http://philadelphia.craigslist.org/bik/3034879946.html</link>
+<description><![CDATA[Vintage Rollfast Girl's Bike. Complete Original. Fifties!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Southampton, NJ -->Location: Southampton, NJ</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:49:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3034879946.html</dc:source>
+<dc:title><![CDATA[Vintage Rollfast Girl's Bike (Southampton, NJ) $80]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:49:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059850449.html">
+<title><![CDATA[2005 Felt F1C 58cm - 14.4lbs.mint condition. zipp wheels.etc. (08361) $1750]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059850449.html</link>
+<description><![CDATA[Mint condition Felt F1C - torayca M30s carbon. has stronglight pulsion carbon cranks ($800 new), Zipp 303 tubular wheels ($1600new),<br>
+USE alien carbon seatpost, DuraAce 9speed STI brakes, levers, front/rear derailleurs, selle carbon saddle, Ritchey WCS 44cm bars, Deda Newton stem, Speedplay X1 pedals. All the good stuff was put on this bike whne I built it up back in 2006. It was ridden a total of probably 300miles to date...<br>
+Retail cost of all parts including frame was over $6k. All parts were new when built. Still basically are new.<br>
+Come see for yourself if you like. pics to those with serious interest.<br>
+14.4 lbs with pedals.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=08361 -->Location: 08361</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:46:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059850449.html</dc:source>
+<dc:title><![CDATA[2005 Felt F1C 58cm - 14.4lbs.mint condition. zipp wheels.etc. (08361) $1750]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:46:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3042355204.html">
+<title><![CDATA[&#9827; (BIKES) CHILDRENS BICYLES RUN GOOD CHEAP PRICE &#9827; (CINNAMINSON) $40]]></title>
+<link>http://philadelphia.craigslist.org/bik/3042355204.html</link>
+<description><![CDATA[$40 each or all three for $100. Selling today. Call me, I won't receive texts. 609-616-2277<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=CINNAMINSON -->Location: CINNAMINSON</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:45:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3042355204.html</dc:source>
+<dc:title><![CDATA[&#9827; (BIKES) CHILDRENS BICYLES RUN GOOD CHEAP PRICE &#9827; (CINNAMINSON) $40]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:45:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3013004206.html">
+<title><![CDATA[S amd M Redneck LT silver (Haddonfeild) $20]]></title>
+<link>http://philadelphia.craigslist.org/bik/3013004206.html</link>
+<description><![CDATA[Good shape no problems.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Haddonfeild -->Location: Haddonfeild</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:44:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3013004206.html</dc:source>
+<dc:title><![CDATA[S amd M Redneck LT silver (Haddonfeild) $20]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:44:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059840798.html">
+<title><![CDATA[BMX Custom United Mothership $350]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059840798.html</link>
+<description><![CDATA[Expensive ride for cheap! United Mothership frame!Fly front wheel!Fly bars! Animal Stem!Animal seat post! Shadow Seat and Sprocket and pegs! Nitrous back wheel and cranks! All for 350! The frame is 400 new! This is a deal. You can't get a ride like this anywhere else for 350. Don't ask to part it out because I need the cash. This is going to sell quick so first come first serve! I learned so much on this ride and its heartbreaking to get rid of. Call/text Dave at 8564305245<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:41:25-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059840798.html</dc:source>
+<dc:title><![CDATA[BMX Custom United Mothership $350]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:41:25-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3051793026.html">
+<title><![CDATA[Schwinn mountain bike (like new condition) (Art Museum) $140]]></title>
+<link>http://philadelphia.craigslist.org/bik/3051793026.html</link>
+<description><![CDATA[Schwinn "Frontier" 18 speed mountain bike. Sakae cranks. Shimano SIS derailleurs. Aluminum 26" wheels. Frame measures 21" with a standover of 31". Good fit for someone 5'5"-5'10". Very light and comfortable bike for the city.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Art Museum -->Location: Art Museum</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:40:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3051793026.html</dc:source>
+<dc:title><![CDATA[Schwinn mountain bike (like new condition) (Art Museum) $140]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:40:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059834841.html">
+<title><![CDATA[Raleigh Super Course Vintage Bicycle (Springfield, Del. Co., PA) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059834841.html</link>
+<description><![CDATA[Raleigh Super Course vintage English racing bicycle<br>
+<br>
+Manufacture   =   RALEIGH, made in Nottingham England<br>
+Model   =   Super Course<br>
+Gears    =   Suntour <br>
+Brakes  =   Weinmann 750.     Vain Queur 999<br>
+Gear derailer for chain   =   Simplex<br>
+Leather bike seat (original)   =   RALEIGH and Brooks Champion Narrow  B.15<br>
+Wheels   =   Made In France<br>
+Pedals = There is a yellow reflector on each pedal, front and back, that says ATOM 440 and Made In France<br>
+ Tires = KENDA.  Tires are made of Nylon, and are 27" X 1¼"  (32-630).  <br>
+     The maximum recommended pressure is 70 psi (4.5 Bar)<br>
+Age = approximately 40 years<br>
+Condition = good <br>
+<br>
+If interested or to schedule an inspection respond by e-mail or call 610-356-3527,<br>
+  or,<br>
+attend the Delaware County Symphony Yard Sale on Saturday, June 9, 2012<br>
+at 401 Conard Drive, Springfield, Delaware County, PA 19064 (near Rts.1 and 320)<br>
+until 3:00 p.m.  For further information about the DCS yard sale see the "Garage Sales" listing on Craig's List.<br>
+<br>
+(With thanks to Cycle Sport in Media, PA for their advice and recommendations for this listing.  See their web site for information about general bicycle maintenance and other related topics.)  <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Springfield, Del. Co., PA -->Location: Springfield, Del. Co., PA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:38:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059834841.html</dc:source>
+<dc:title><![CDATA[Raleigh Super Course Vintage Bicycle (Springfield, Del. Co., PA) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:38:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054594089.html">
+<title><![CDATA[@@ 3 KIDS BIKES - GREAT CONDITION @@ (CINNAMINSON) $40]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054594089.html</link>
+<description><![CDATA[Going to sell today, all in good condition. $40 each or all three for $100. Call 609-616-2277. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=CINNAMINSON -->Location: CINNAMINSON</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:35:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054594089.html</dc:source>
+<dc:title><![CDATA[@@ 3 KIDS BIKES - GREAT CONDITION @@ (CINNAMINSON) $40]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:35:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059806272.html">
+<title><![CDATA[Stationary bike (Graduate hospital ) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059806272.html</link>
+<description><![CDATA[Get your exercise on...rain or shine! Stationary Schwinn bicycle in great condition. We are old and out of shape so no longer need it. I have pics at your request.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Graduate hospital  -->Location: Graduate hospital </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:23:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059806272.html</dc:source>
+<dc:title><![CDATA[Stationary bike (Graduate hospital ) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:23:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059804047.html">
+<title><![CDATA[Excellent Classic Peugeot Road Bike (S.J. 08060) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059804047.html</link>
+<description><![CDATA[ Needs a little elbow grease and air. Little corrosion but not a lot.  Made in France. Peugeot frames alone sell well over 300 dollars on Ebay, but this is the whole bike. I am selling as cheap as possible, its a DEAL OF A LIFETIME. Sad I didn't get it on the road.<br>
+ Super light alloy metal, pick it up with one hand. it could be yours for only $100  I am 6' and it fits me really well. 27" presta style tires. <br>
+email only <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=S.J. 08060 -->Location: S.J. 08060</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:22:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059804047.html</dc:source>
+<dc:title><![CDATA[Excellent Classic Peugeot Road Bike (S.J. 08060) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:22:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059786361.html">
+<title><![CDATA[***great starting out ladies mountain bike**** (Delaware County) $50]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059786361.html</link>
+<description><![CDATA[26in ladies alloy small frame moutain bike.  This is a great starting out bike.  Had it for a couple years and it was great. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Delaware County -->Location: Delaware County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:12:50-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059786361.html</dc:source>
+<dc:title><![CDATA[***great starting out ladies mountain bike**** (Delaware County) $50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:12:50-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3052327010.html">
+<title><![CDATA[Leader 725 track bike (University City) $800]]></title>
+<link>http://philadelphia.craigslist.org/bik/3052327010.html</link>
+<description><![CDATA[Selling a lightly used Leader 725 track bike. It is a great ride and very stylish. It is powder coated white, but the serial number proves it is a Leader. The 725 is based on classic track geometry, it's long and low great for a range of heights. It has a SRAM S300 courier gxp crankset, FSA headset, weinmann dp 18's(non machined) with origin 8 hubs and an eighth inch cog/lockring, and origin 8 seatpost/saddle. I have eighth inch bullhorns and riser handlebars, your choice. I also have some All City track pedals, but no cages, if you are interested. The bike is brake-less so I wouldn't recommend riding without cages/clipless. Everything is freshly lubed, inflated, tensioned, tightened. Willing to hear offers. Happy riding!<br>
+track, fixed, brakeless, deep v, bullhorns, risers, sram, leader<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=University City -->Location: University City</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:12:07-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3052327010.html</dc:source>
+<dc:title><![CDATA[Leader 725 track bike (University City) $800]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:12:07-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059763450.html">
+<title><![CDATA[Mens raleigh bicycle (19015) $175]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059763450.html</link>
+<description><![CDATA[nice bike, rides brand new, looks the same, 21 speeds, auminum frame and chromoly fork makes it extrememly  light and strong, great if you live in an upstairs apartment. bike is a model sc 200 it was well over 400 dollars new. this bike has rarely been used . It is tuned lubed and ready to ride. It like getting a brand new bike for half off. call 610-818-9369  20 inch frame , 26 inch wheels, 33 inch standover<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=19015 -->Location: 19015</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T19:00:47-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059763450.html</dc:source>
+<dc:title><![CDATA[Mens raleigh bicycle (19015) $175]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T19:00:47-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059742920.html">
+<title><![CDATA[huffy moutain bike (great condition delco) $65]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059742920.html</link>
+<description><![CDATA[Email for pics great bike just got it<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=great condition delco -->Location: great condition delco</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:50:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059742920.html</dc:source>
+<dc:title><![CDATA[huffy moutain bike (great condition delco) $65]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:50:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3049982057.html">
+<title><![CDATA[2011 kink gap (Bensalem) $400]]></title>
+<link>http://philadelphia.craigslist.org/bik/3049982057.html</link>
+<description><![CDATA[This bike is light<br>
+Its has 2011 frame<br>
+Also new eastern sprocket,chain,demolition peddles.and grips<br>
+Fresh new white walls<br>
+You can choose from a kink seat or a super light verde seat<br>
+I added an extra new clear eastern grips<br>
+Call 215 741 9942 or email me<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Bensalem -->Location: Bensalem</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:44:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3049982057.html</dc:source>
+<dc:title><![CDATA[2011 kink gap (Bensalem) $400]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:44:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059718816.html">
+<title><![CDATA[centurion bicycle (willow grove - PA) $195]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059718816.html</link>
+<description><![CDATA[27" wheels<br>
+33" stand over height<br>
+23" frame (from crank center to top of seat post tube)<br>
+most likely best suited for someone 5'11" or taller<br>
+<a href="http://s1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/?action=view&amp;current=IMG_2134.jpg" target="_blank" rel="nofollow"><img src="http://i1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/IMG_2134.jpg" border="0" alt="Photobucket"></a><br>
+<a href="http://s1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/?action=view&amp;current=IMG_2137.jpg" target="_blank" rel="nofollow"><img src="http://i1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/IMG_2137.jpg" border="0" alt="Photobucket"></a><br>
+<a href="http://s1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/?action=view&amp;current=IMG_2140.jpg" target="_blank" rel="nofollow"><img src="http://i1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/IMG_2140.jpg" border="0" alt="Photobucket"></a><br>
+<a href="http://s1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/?action=view&amp;current=IMG_2127.jpg" target="_blank" rel="nofollow"><img src="http://i1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/IMG_2127.jpg" border="0" alt="Photobucket"></a><br>
+<a href="http://s1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/?action=view&amp;current=IMG_2120.jpg" target="_blank" rel="nofollow"><img src="http://i1217.photobucket.com/albums/dd395/tinmanintherain/bike%20-%20blue%20centurion/IMG_2120.jpg" border="0" alt="Photobucket"></a><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=willow grove - PA -->Location: willow grove - PA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:38:02-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059718816.html</dc:source>
+<dc:title><![CDATA[centurion bicycle (willow grove - PA) $195]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:38:02-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3047833734.html">
+<title><![CDATA[I'm Interested in Buy carbon wheel set (University City)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3047833734.html</link>
+<description><![CDATA[Hello I am interested in buy a Carbon Wheel set (700  Mavic , ZIPP  Reynols  etc. ) for my Road bike if someone has a set or just a Front Wheel sent me a pic, and we can make a deal Thanks .<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=University City -->Location: University City</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:38:00-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3047833734.html</dc:source>
+<dc:title><![CDATA[I'm Interested in Buy carbon wheel set (University City)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:38:00-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059695640.html">
+<title><![CDATA[Campagnolo Carbon RECORD single speed brake levers (West Philadelphia) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059695640.html</link>
+<description><![CDATA[Single Speed levers as shown, minor scratches on bottoms and a rough spot in the clear coat that is pictured. Never crashed and no structural damage. Used on a fixed gear training bike for a while and now have no use for them. I'm willing to meet up wherever in the city to sell.<br>
+<br>
+<br>
+<br>
+Single Speed, Cyclocross, CCX, fixed gear, fixie, campy<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=West Philadelphia -->Location: West Philadelphia</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:26:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059695640.html</dc:source>
+<dc:title><![CDATA[Campagnolo Carbon RECORD single speed brake levers (West Philadelphia) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:26:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3001681961.html">
+<title><![CDATA[Bontrager Crowbar Riser Handlebar (s.philly) $35]]></title>
+<link>http://philadelphia.craigslist.org/bik/3001681961.html</link>
+<description><![CDATA[Black uncut 9 degree Race model riser bar.  Very good condition.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:14:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3001681961.html</dc:source>
+<dc:title><![CDATA[Bontrager Crowbar Riser Handlebar (s.philly) $35]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:14:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059670233.html">
+<title><![CDATA[2009 FBM HEATHEN!!! (NE PHILLY) $350]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059670233.html</link>
+<description><![CDATA[im selling my 2009 FBM HEATHEN. im asking for $350 OBO. it is in excellent condition. it is yellow in color with black eastern 3 piece cranks and black fbm handle bars with brand new black odi longneck grips and bar ends. it has a custom white seat and a stump seatpost so the seat sits really low. it also has newer primo "the wall" tires with white demolition zero rims, white spokes w/ black nipples, and white demolition anorexia and bulimia hubs. it also has a neon green kmc chain, red animal steven hamilton pedals and 2 pegs. i believe the pegs are made by either animal or odyssey. i really dont wanna sell it cause i love this bike but im stuck between a rock and a hard place and need money for bills. i couldnt load any pictures of it cause i my computer is not being coopertive right now. haha but if you are interested shoot me an email and i will make sure to get the pictures to you and the price is definately negoitable. all offers considered. im a fair guy so just let me know what you think. thanks for taking the time to read my post<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=NE PHILLY -->Location: NE PHILLY</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:14:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059670233.html</dc:source>
+<dc:title><![CDATA[2009 FBM HEATHEN!!! (NE PHILLY) $350]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:14:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3001748705.html">
+<title><![CDATA[Green & White Team Cycling Cap- Credit Agricole (s.philly) $10]]></title>
+<link>http://philadelphia.craigslist.org/bik/3001748705.html</link>
+<description><![CDATA[Brand New, Made in Italy.  Team info- <a href="http://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole_%28cycling_team%29" rel="nofollow">http://en.wikipedia.org/wiki/Cr%C3%A9dit_Agricole_%28cycling_team%29</a><br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:13:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3001748705.html</dc:source>
+<dc:title><![CDATA[Green & White Team Cycling Cap- Credit Agricole (s.philly) $10]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:13:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059666931.html">
+<title><![CDATA[Cannondale MTB Cycling Shoes- 10 (center city) $40]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059666931.html</link>
+<description><![CDATA[Mens 10 Cannondale Carve shoes- originally $100.  Grey/silver/black will match any dress.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=center city -->Location: center city</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:12:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059666931.html</dc:source>
+<dc:title><![CDATA[Cannondale MTB Cycling Shoes- 10 (center city) $40]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:12:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3043454801.html">
+<title><![CDATA[GT DHi Race DH/Freeride (NJ/NY/PA) $950]]></title>
+<link>http://philadelphia.craigslist.org/bik/3043454801.html</link>
+<description><![CDATA[Downhill/Freeride GT DHi Race bike. (Frame size is medium. I am 5'10 and it fits me perfectly)<br>
+<br>
+Great bike for beginners getting into downhill/freeride sport. Great for plowing through anything from roots to big rocks and 20' drops.<br>
+<br>
+Boxxer front fork (needs new seals; easily replaceable)<br>
+9" frame travel.<br>
+Sun Ringle Eight Track wheel<br>
+hayes hydraulic disc brakes (needs new pads $20)<br>
+michelin 26x2.8 front tire<br>
+Azonic Chubby bar with 9 year warranty<br>
+cane creek headset<br>
+custom racing rear wheel and hub<br>
+intense sticky grip tire in the back 26x2.7<br>
+<br>
+As you can see on the pictures, the bike does need a new seat as well. Not a problem for riding downhill ;)<br>
+<br>
+The bike has a few dings and scratches from regular wear and tear. <br>
+Please call/text Serge (609)213-6757 for more details. <br>
+<br>
+DUE TO CRAIGSLIST BEING INFAMOUS FOR SPAM, I WILL NOT RESPOND TO ANY EMAILS. CALL OR TEXT ONLY!!!!!!!!!!!!!!!!!<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=NJ/NY/PA -->Location: NJ/NY/PA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:12:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3043454801.html</dc:source>
+<dc:title><![CDATA[GT DHi Race DH/Freeride (NJ/NY/PA) $950]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:12:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059660900.html">
+<title><![CDATA[2007 Mirraco Icon Option (Ambler) $95]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059660900.html</link>
+<description><![CDATA[Bike used maybe 10 times, still in good condition - tires and brakes are like new. <br>
+**it is orange**<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Ambler -->Location: Ambler</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:09:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059660900.html</dc:source>
+<dc:title><![CDATA[2007 Mirraco Icon Option (Ambler) $95]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:09:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059659791.html">
+<title><![CDATA[2009 Salsa Mamasita 29er Mountain Bike Size M (19382) $1900]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059659791.html</link>
+<description><![CDATA[For sale is my 2009 Salsa Mamasita 29er.  The frame is a size medium and IS the rare discontinued rear carbon stay model.  This frame is not able to be bought AT ALL anymore.  The bike was a frame-up build and is spec'd better than the bike is sold directly from Salsa.  The bike is in perfect working order and is ready to ride immediately.  The bike was built with an extreme attention to weight and weighs just a hair more than my Trek full carbon.  Feel free to contact me with questions and to make an appointment to test ride.  Thank you<br>
+<br>
+The specs are as follows:<br>
+<br>
+Frame: 2009 Salsa Mamasita size Medium, Scandium with rear carbon stays<br>
+Fork: 2011 Fox F29 RL 100mm<br>
+Crank: Shimano XT<br>
+Rear Deraileur: Shimano XT<br>
+Front Deraileur: Shimano XT<br>
+Shifters: SRAM X9<br>
+Brakes:Avid BB7<br>
+Wheelset:Velocity Blunt Rims with Shimano XT hubs<br>
+Handlebars:Salsa carbon pro moto<br>
+Seatpost:Cannondale carbon C2<br>
+Headset:Cane Creek Creek S3<br>
+Saddle:Selle Italia C2<br>
+Neck:Giant carbon<br>
+Tires:WTB Exiwolf 2.3<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=19382 -->Location: 19382</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:09:06-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059659791.html</dc:source>
+<dc:title><![CDATA[2009 Salsa Mamasita 29er Mountain Bike Size M (19382) $1900]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:09:06-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059649077.html">
+<title><![CDATA[Ritchey Carbon WCS Evolution Handlebars- Road bike (Center City) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059649077.html</link>
+<description><![CDATA[I rode these with an ITM Millenium 4ever stem and Campagnolo Record levers.<br>
+<br>
+31.8 oversize clamp<br>
+42cm<br>
+only scratches are on the driveside drop from brake lever being removed too tightly (shown in picture)<br>
+These bars usually go fro between $220 and $275<br>
+<br>
+<br>
+(Willing to meet up anywhere in the city to sell)<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Center City -->Location: Center City</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:03:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059649077.html</dc:source>
+<dc:title><![CDATA[Ritchey Carbon WCS Evolution Handlebars- Road bike (Center City) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:03:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3047702748.html">
+<title><![CDATA[Bicycles Antique (2) each (Ne Philly-Grant Ave) $25]]></title>
+<link>http://philadelphia.craigslist.org/bik/3047702748.html</link>
+<description><![CDATA[two 26" Antique bicycles late 60's - Boys Amf RoadMaster Pine Green (rusted wheels) with gears or Girls 50's --26" RollFast pale Green (has battery horn) rusty wheels @   267-266-1500 ---or ---215-837-9456----please leave message if no answer<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Ne Philly-Grant Ave -->Location: Ne Philly-Grant Ave</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T18:03:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3047702748.html</dc:source>
+<dc:title><![CDATA[Bicycles Antique (2) each (Ne Philly-Grant Ave) $25]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T18:03:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059635532.html">
+<title><![CDATA[1958 Firestone Speed Chief - 100% Original (Warminster, PA) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059635532.html</link>
+<description><![CDATA[FOR SALE:<br>
+<br>
+1958 Firestone Speed Chief Boys 20" boys bicycle.  All 100% original and there. Asking $150/obo.<br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Warminster, PA -->Location: Warminster, PA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:57:24-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059635532.html</dc:source>
+<dc:title><![CDATA[1958 Firestone Speed Chief - 100% Original (Warminster, PA) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:57:24-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3042926781.html">
+<title><![CDATA[InStep Bike Stroller for 2 children  (philadelphia) $80]]></title>
+<link>http://philadelphia.craigslist.org/bik/3042926781.html</link>
+<description><![CDATA[Selling a like new (barley used) InStep Bike Stroller. It's designed to carry 2 kids. Great for upcoming summer season. Only $80 obo. Call or text 215-805-2960, no emails please.<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=philadelphia -->Location: philadelphia</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:49:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3042926781.html</dc:source>
+<dc:title><![CDATA[InStep Bike Stroller for 2 children  (philadelphia) $80]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:49:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3041385735.html">
+<title><![CDATA[CITY CRUISER  (BIRDSBORO PA ) $50]]></title>
+<link>http://philadelphia.craigslist.org/bik/3041385735.html</link>
+<description><![CDATA[VINTAGE CRUZZER . SET UP AS SINGLE SPEED . 30 IN STANDOVER . GOOD FOR AROUND TOWN . 50 OBO SEND # I WILL GET BACK TO YOU THANKS <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=BIRDSBORO PA  -->Location: BIRDSBORO PA </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:48:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3041385735.html</dc:source>
+<dc:title><![CDATA[CITY CRUISER  (BIRDSBORO PA ) $50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:48:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059592711.html">
+<title><![CDATA[Commuter Mirror (s.philly) $10]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059592711.html</link>
+<description><![CDATA[Black 3" Wudi mirror so ya know what's goin on.  Mounts to road brake lever hood or end of handlebar with velcro cinch strap.  <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:37:33-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059592711.html</dc:source>
+<dc:title><![CDATA[Commuter Mirror (s.philly) $10]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:37:33-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059572412.html">
+<title><![CDATA[Schwinn Cutter (Warrington) $320]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059572412.html</link>
+<description><![CDATA[This is an amazing bike with a brand new tire on the bike. It is a 2012 addition and I just don't ride it as much as I thought  I would. So my lose is your gain. In perfect condition! 320 obo.<br>
+<br>
+Schwinn Hi-Ten Track Steel Frame & Hi-Ten/Chromoly Fork for a durable and stylish ride<br>
+46 x 18t singlespeed drivetrain with flip-flop rear hub that makes it easy to switch from fixed to freewheel<br>
+Schwinn Track Saddle and Phantom Grips for comfort and style<br>
+<br>
+email or text me at 215 nine eight three 78seven six<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Warrington -->Location: Warrington</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:28:12-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059572412.html</dc:source>
+<dc:title><![CDATA[Schwinn Cutter (Warrington) $320]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:28:12-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059566688.html">
+<title><![CDATA[Vintage Women's Bicycle - Free Spirit (Northern Liberties ) $125]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059566688.html</link>
+<description><![CDATA[Vintage Free Spirit Women's Bicycle $125 OBO<br>
+Recent Maintenance - ready to ride <br>
+Good Condition<br>
+Marron Color <br>
+Probably ideal for 5'4"-5'8" female (I am 5'10" and it's a bit too small for me.) <br>
+ <br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Northern Liberties  -->Location: Northern Liberties </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:25:37-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059566688.html</dc:source>
+<dc:title><![CDATA[Vintage Women's Bicycle - Free Spirit (Northern Liberties ) $125]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:25:37-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3051260122.html">
+<title><![CDATA[Vintage Project bicycle European (West Philly) $50]]></title>
+<link>http://philadelphia.craigslist.org/bik/3051260122.html</link>
+<description><![CDATA[Beautiful gold frame bike needs some fixing. Great project bike. Vintage frame is hard to come by.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=West Philly -->Location: West Philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:25:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3051260122.html</dc:source>
+<dc:title><![CDATA[Vintage Project bicycle European (West Philly) $50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:25:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059561946.html">
+<title><![CDATA[Schwinn 21 speed frontier GS Mountain bike (manayunk ) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059561946.html</link>
+<description><![CDATA[Like NEW!!!!<br>
+<br>
+Hardly used- Schwinn 21 speed frontier gs with comfy seat (deep groove serfas gel seat qli) <br>
+<br>
+Schwinn N'Litened Aluminum Frame w/ Trail-Tuned Geometry<br>
+Trail-Tuned MA-179 Suspension Fork w/ Alloy Crown, 50mm Travel <br>
+Shimano Altus 21-Speed Derailleur w/ Shimano EF50 Shifters & Alloy Cranks <br>
+Water Bottle holder<br>
+erogonomic handles <br>
+<br>
+Only 3 years old- new ones sell for over $300 so this is an amazing deal! <br>
+<br>
+Must sell ASAP - Serious inquirys only! Must be picked up before the end of this month!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=manayunk  -->Location: manayunk </li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:23:30-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059561946.html</dc:source>
+<dc:title><![CDATA[Schwinn 21 speed frontier GS Mountain bike (manayunk ) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:23:30-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059556202.html">
+<title><![CDATA[Schwinn jenny 7 speed bike (820s 51st 19143 philly, pa) $300]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059556202.html</link>
+<description><![CDATA[Practically New i only has it for 7 months and i would like to get rid of it ASAP. I originally got it for $500 so this it a good deal<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=820s 51st 19143 philly, pa -->Location: 820s 51st 19143 philly, pa</li>
+<li><!-- CLTAG outsideContactOK=on -->it's ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:20:54-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059556202.html</dc:source>
+<dc:title><![CDATA[Schwinn jenny 7 speed bike (820s 51st 19143 philly, pa) $300]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:20:54-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3023084035.html">
+<title><![CDATA[Schwinn Frontier! Barely used! (NE Philly 19111) $125]]></title>
+<link>http://philadelphia.craigslist.org/bik/3023084035.html</link>
+<description><![CDATA[I bought this bike 2 months ago and it has been used for a total of 23.1 miles. I thought it would be a good idea to get out but I have a spinal injury. This bike works perfectly I'm just not able to use it. It will come with a Cateye Velo 5 digital speedometer/odometer. The bike was $300 and the speedometer was $50. Any questions send me an email. If the post is still up it is still available.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=NE Philly 19111 -->Location: NE Philly 19111</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:17:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3023084035.html</dc:source>
+<dc:title><![CDATA[Schwinn Frontier! Barely used! (NE Philly 19111) $125]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:17:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059540469.html">
+<title><![CDATA[Fixed gear / fixie conversion frame with like new Cranks (West Philadelphia) $65]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059540469.html</link>
+<description><![CDATA[I built this bike up last summer to commute on to school, but ended up just buying a road bike.  Everything was stripped and repainted and waterproofed. The headset was fixed up and re greased.  I built this bike from an old Raleigh road bike and should fit anyone between 5'7 and 6 foot. The bar tape is new also.  The crank set is very lightly used and new costs more than I'm asking for.  I just want to get rid of it to someone that'll put wheels on it and ride it rather than it sitting in my living room. It's far from the prettiest thing around but for the price, its worth it.<br>
+<br>
+Parts added to the converted frame:<br>
+Origin8 Square Top Track Single Speed Bicycle Crankset - Black 165mm x 46T- 70$<br>
+Origin 8 branded Sealed cartridge bottom bracket- 35$<br>
+Black bar tape- 14$<br>
+<br>
+Fork will accept a brake if you'd like to add one.<br>
+I have an orange chain and some pedals i could throw in if you wanted for like 10$. You'd be ready to ride as soon as you got some wheels on there!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=West Philadelphia -->Location: West Philadelphia</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:13:53-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059540469.html</dc:source>
+<dc:title><![CDATA[Fixed gear / fixie conversion frame with like new Cranks (West Philadelphia) $65]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:13:53-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059513205.html">
+<title><![CDATA[7/8" Chrome Seatpost (s.philly) $10]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059513205.html</link>
+<description><![CDATA[New chrome straight seat post- 7/8" diameter (22.2mm). Fits some bmx bikes, etc. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:01:39-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059513205.html</dc:source>
+<dc:title><![CDATA[7/8" Chrome Seatpost (s.philly) $10]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:01:39-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059510009.html">
+<title><![CDATA[Schwinn Crest Urban Women's Hybrid Bike (700c Wheels) (Chadds Ford) $350]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059510009.html</link>
+<description><![CDATA[Women's bike PLUS accessories: helmet (never worn), bike lock, basket, bike pump, additional bike bag, and mirror. Bike and all accessories are in PERFECT condition. Email inquiries only. <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chadds Ford -->Location: Chadds Ford</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:00:13-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059510009.html</dc:source>
+<dc:title><![CDATA[Schwinn Crest Urban Women's Hybrid Bike (700c Wheels) (Chadds Ford) $350]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:00:13-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059509890.html">
+<title><![CDATA[Cannondale Saddle (s.philly) $20]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059509890.html</link>
+<description><![CDATA[Lightly used black Coda saddle- small tear visible on left corner from storage.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T17:00:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059509890.html</dc:source>
+<dc:title><![CDATA[Cannondale Saddle (s.philly) $20]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T17:00:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3041053770.html">
+<title><![CDATA[Trek 1000  aluminum 1990's (phila) $250]]></title>
+<link>http://philadelphia.craigslist.org/bik/3041053770.html</link>
+<description><![CDATA[This is a Trek 1000  aluminum  late 80'-to early 1990's.   57cm frame  21 speed. indexed.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=phila -->Location: phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3041053770.html</dc:source>
+<dc:title><![CDATA[Trek 1000  aluminum 1990's (phila) $250]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054453361.html">
+<title><![CDATA[Thule Rac-n-Loc (Philadelphia) $125]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054453361.html</link>
+<description><![CDATA[This is a Thule Rac-n-Loc 515-0109    in excellent condition. 1 1/4" receiver    <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Philadelphia -->Location: Philadelphia</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:46-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054453361.html</dc:source>
+<dc:title><![CDATA[Thule Rac-n-Loc (Philadelphia) $125]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:46-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3012656882.html">
+<title><![CDATA[Specialized Rock hopper  (Phila) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3012656882.html</link>
+<description><![CDATA[Specialized Rock hopper  21 speed   15" frame Shimano STX derailer. Dia-compe brakes<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Phila -->Location: Phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3012656882.html</dc:source>
+<dc:title><![CDATA[Specialized Rock hopper  (Phila) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054452816.html">
+<title><![CDATA[Yokota 21sp (Philadelphia) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054452816.html</link>
+<description><![CDATA[This is a Yokota 21sp in very good condition. 15"frame<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Philadelphia -->Location: Philadelphia</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054452816.html</dc:source>
+<dc:title><![CDATA[Yokota 21sp (Philadelphia) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054454394.html">
+<title><![CDATA[Nishiki sport 12sp. commuter (phila) $250]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054454394.html</link>
+<description><![CDATA[This is a Nishiki sport 12sp. in Excellent condition. Frame=63cm Standover=35" Dia compe brakes 4130 Cho-Moly frame Sugino VP crank Shimano RSX derailer. Araya 27" rims handlebars are straight <br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=phila -->Location: phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:26-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054454394.html</dc:source>
+<dc:title><![CDATA[Nishiki sport 12sp. commuter (phila) $250]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:26-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3014283485.html">
+<title><![CDATA[Maserati Bicycle Very Rare - Campagnolo and Balilla Components - Solid (Chester County) $140]]></title>
+<link>http://philadelphia.craigslist.org/bik/3014283485.html</link>
+<description><![CDATA[This bicycle is in good condition for being almost 40 years old. All original. Only a few Maserati bicycles were ever made in the 70s so this is a great bike to have in your collection. This bike has all the original parts like Campagnolo shifters and derailers and Balilla brakes. The bike is priced low for a quick sale so there isn't any room left for haggling. This is a great bike to buy, restore, and resell for a big profit. I am too busy to do it myself but I have done tons of research on this bike and found out it can fetch over a grand easy if fully restored properly.<br>
+<br>
+ Please contact me at 4849476611 to pick up in Coatesville or King of Prussia. If you want to pick up in KOP then it must be before 4pm during the week. I will provide an address to either location for cash and carry. No calls or texts after 9pm please.<br>
+<br>
+ Thanks for viewing and please let me know if you have any further questions <br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:58:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3014283485.html</dc:source>
+<dc:title><![CDATA[Maserati Bicycle Very Rare - Campagnolo and Balilla Components - Solid (Chester County) $140]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:58:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3014247416.html">
+<title><![CDATA[Girl's Huffy Mountain Bike - Needs New Chain (Chester County) $15]]></title>
+<link>http://philadelphia.craigslist.org/bik/3014247416.html</link>
+<description><![CDATA[This bike needs a tune up and new chain. It is great for preteens, teens, or women under 5'6". Please contact 4849476611 to pick up in Coatesville or King of Prussia. If you want to pick it up in KOP then it must be before 4pm during the week.<br>
+<br>
+No calls or texts after 9pm. Thanks for viewing. <br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:57:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3014247416.html</dc:source>
+<dc:title><![CDATA[Girl's Huffy Mountain Bike - Needs New Chain (Chester County) $15]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:57:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3001020214.html">
+<title><![CDATA[Shimano 6 Speed SIS Thumbshifters (south philly) $30]]></title>
+<link>http://philadelphia.craigslist.org/bik/3001020214.html</link>
+<description><![CDATA[6spd SIS indexed CT-50 thumb shifters.  Above-the-bar mount.  Used sparingly, perfect working order and look close to new.  <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=south philly -->Location: south philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:56:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3001020214.html</dc:source>
+<dc:title><![CDATA[Shimano 6 Speed SIS Thumbshifters (south philly) $30]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:56:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3001117344.html">
+<title><![CDATA[White Bottle Cage (s.philly)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3001117344.html</link>
+<description><![CDATA[I have two for sale:<br>
+1. New white alloy $5<br>
+2. Used white vintage $10 <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:56:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3001117344.html</dc:source>
+<dc:title><![CDATA[White Bottle Cage (s.philly)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:56:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3028773834.html">
+<title><![CDATA[26" Hyper Breeze Aluminum Frame Mountain Bike - Very Nice (Chester County) $55]]></title>
+<link>http://philadelphia.craigslist.org/bik/3028773834.html</link>
+<description><![CDATA[Needs a tube and that's it.  In very good condition.  Please contact 4849476611 to pick up in Coatesville or King of Prussia.  If you want to pick up in KOP then it must be before 4pm on Tuesday or Thursday.  Otherwise it must be picked up in Coatesville.  I will provide an address to either location.<br>
+<br>
+Thanks<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:55:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3028773834.html</dc:source>
+<dc:title><![CDATA[26" Hyper Breeze Aluminum Frame Mountain Bike - Very Nice (Chester County) $55]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:55:52-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3044132526.html">
+<title><![CDATA[Vintage Maserati 10spd Road Bicycle - Campagnolo, Balilla parts (Chester County) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3044132526.html</link>
+<description><![CDATA[This bicycle is in good condition for being almost 40 years old. All original. Only a few Maserati bicycles were ever made in the 70s so this is a great bike to have in your collection. This bike has all the original parts like Campagnolo shifters and derailers and Balilla brakes. The bike is priced low for a quick sale so there isn't any room left for haggling. This is a great bike to buy, restore, and resell for a big profit. I am too busy to do it myself but I have done tons of research on this bike and found out it can fetch over a grand easy if fully restored properly.<br>
+<br>
+ Please contact me at 4849476611 to pick up in Coatesville or King of Prussia. If you want to pick up in KOP then it must be before 4pm during the week. I will provide an address to either location for cash and carry. No calls or texts after 9pm please.<br>
+<br>
+ Thanks for viewing and please let me know if you have any further questions<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Chester County -->Location: Chester County</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:54:22-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3044132526.html</dc:source>
+<dc:title><![CDATA[Vintage Maserati 10spd Road Bicycle - Campagnolo, Balilla parts (Chester County) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:54:22-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054316492.html">
+<title><![CDATA[MONGOOSE DXRAL (19015) $75]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054316492.html</link>
+<description><![CDATA[super nice and rock solid, this bike needs NOTHING but a rider, ready to ride , Aluminum frame , shock fork, grip shifters shimanno deraileurs,quick release seat post clamp,  alloy rims hubs and brake levers, 26 inch wheels, 28 inch standover 20 inch frame Buy it today keep 25 bucks and get it for 50 dollars call 610-818-9369<br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121826.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121826.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121826b.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121826b.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121826c.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121826c.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121827.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121827.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121827a.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121827a.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121827b.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121827b.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121828.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121828.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121828a.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121828a.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121828b.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121828b.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s839.photobucket.com/albums/zz316/cimism610/?action=view&amp;current=0602121829.jpg" target="_blank" rel="nofollow"><img src="http://i839.photobucket.com/albums/zz316/cimism610/0602121829.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=19015 -->Location: 19015</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:53:32-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054316492.html</dc:source>
+<dc:title><![CDATA[MONGOOSE DXRAL (19015) $75]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:53:32-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059494489.html">
+<title><![CDATA[Tiagra 9 Speed STI Shifters (center city) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059494489.html</link>
+<description><![CDATA[Double 4500 shifters.  Used for one season.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=center city -->Location: center city</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:53:17-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059494489.html</dc:source>
+<dc:title><![CDATA[Tiagra 9 Speed STI Shifters (center city) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:53:17-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059491865.html">
+<title><![CDATA[Schwinn Sierra Hybrid 21-Speed Bike (19") (Somerset Lake) $100]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059491865.html</link>
+<description><![CDATA[Well maintained Schwinn Sierra Hybrid 21-Speed bike in excellent condition.  Bike has Shimano components and grip shifters.  Both the seat and seat post have shocks for a comfortable ride.  This Hybrid bike has 26" x 2" tires that can handle the street and trails.<br>
+<br>
+Send email with phone number if interested.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Somerset Lake -->Location: Somerset Lake</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:52:09-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059491865.html</dc:source>
+<dc:title><![CDATA[Schwinn Sierra Hybrid 21-Speed Bike (19") (Somerset Lake) $100]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:52:09-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3001017583.html">
+<title><![CDATA[Short 1" Riser Stem (s. philly) $20]]></title>
+<link>http://philadelphia.craigslist.org/bik/3001017583.html</link>
+<description><![CDATA[One inch quill stem with 80mm extension. This is a 21.1mm quill that fits older Schwinn bikes.  The proper shim is included to bring it out to the standard 22.2mm.<br>
+A different shim would allow this to work with older French bikes (Peugeot, Motobecane, etc.) with a 22.0mm insertion diameter.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s. philly -->Location: s. philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:50:01-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3001017583.html</dc:source>
+<dc:title><![CDATA[Short 1" Riser Stem (s. philly) $20]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:50:01-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3045234661.html">
+<title><![CDATA[HIS AND HERS: MATTE BLACK AND SATIN WHITE BYCICLES (PHILADELPHIA) $1500]]></title>
+<link>http://philadelphia.craigslist.org/bik/3045234661.html</link>
+<description><![CDATA[SELLING 2 BEAUTIFUL BYCICLES FOR HIM AND HER... BYCICLES HAVE ONLY BEEN RIDDEN TWICE SINCE THE PURCHASE.<br>
+CANNONDALE BAD BOY ULTRA MATTE BLACK BYCICLE AND TREK 7.5 FX WSD 17" SATIN WHITE BYCICLE CAN BE PURCHASED WITH THE PROOF OF PURCHASE...<br>
+THE ORIGINAL PRICE FOR THE CANNONDALE MATTE BLACK IS $1349.99 <br>
+THE ORIGINAL PRICE FOR THE TREK 7.5 FX WSD 17" SATIN WHITE  IS $889.99<br>
+BOTH BIKES ARE IN GREAT CONDITION.. LOOK BRAND NEW<br>
+DONT MISS OUT ON PURCHASING THOSE BABIES..!<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=PHILADELPHIA -->Location: PHILADELPHIA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:49:34-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3045234661.html</dc:source>
+<dc:title><![CDATA[HIS AND HERS: MATTE BLACK AND SATIN WHITE BYCICLES (PHILADELPHIA) $1500]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:49:34-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3045219072.html">
+<title><![CDATA[TREK 7.5 FX WSD 17" SATIN WHITE BYCICLE (PHILADELHIA) $600]]></title>
+<link>http://philadelphia.craigslist.org/bik/3045219072.html</link>
+<description><![CDATA[TWICE USED, ALMOST BRAND NEW TREK 7.5 FX WSD 17" SATIN WHITE UNISEX BYCICLE.... BYCICLE IS IN GREAT CONDITION, RIDES SMOOTH, NO SCRATCHES OR TEARS ON IT... ORIGINAL PRICE WAS $889.99, PROOF OF PURCHASE AVAILABLE...<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=PHILADELHIA -->Location: PHILADELHIA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:49:29-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3045219072.html</dc:source>
+<dc:title><![CDATA[TREK 7.5 FX WSD 17" SATIN WHITE BYCICLE (PHILADELHIA) $600]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:49:29-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3000988397.html">
+<title><![CDATA[Tektro Top Mount Brake Levers (s.philly) $20]]></title>
+<link>http://philadelphia.craigslist.org/bik/3000988397.html</link>
+<description><![CDATA[Cyclocross in-line levers.  Lightly used pair- hinged clamp for easy install.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=s.philly -->Location: s.philly</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:49:27-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3000988397.html</dc:source>
+<dc:title><![CDATA[Tektro Top Mount Brake Levers (s.philly) $20]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:49:27-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3045206866.html">
+<title><![CDATA[CANNONDALE BAD BOY ULTRA MATTE BLACK BICYCLE (PHILADELPHIA) $1000]]></title>
+<link>http://philadelphia.craigslist.org/bik/3045206866.html</link>
+<description><![CDATA[TWICE USED, ALMOST BRAND NEW CANNONDALE BAD BOY ULTRA MATTE BLACK BYCICLE.... IN GREAT CONDITION, MINUS THE FLAT TIRE... NO SCRATCHES OR TEARS ON IT, DUE TO THE FACT THAT ITS BEEN RIDDEN TWICE ONLY.... ORIGINAL PRICE ON THE RECEIPT IS $1349.99... RECEIPT AVAILABLE FOR PROOF OF PURCHASE... <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=PHILADELPHIA -->Location: PHILADELPHIA</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:49:23-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3045206866.html</dc:source>
+<dc:title><![CDATA[CANNONDALE BAD BOY ULTRA MATTE BLACK BICYCLE (PHILADELPHIA) $1000]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:49:23-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059468608.html">
+<title><![CDATA[2012 specialized sirrus limited full carbon size 52 (  manayunk) $1800]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059468608.html</link>
+<description><![CDATA[Bike is full.carbon call or text 267 283 6813 <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=  manayunk -->Location:   manayunk</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:41:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059468608.html</dc:source>
+<dc:title><![CDATA[2012 specialized sirrus limited full carbon size 52 (  manayunk) $1800]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:41:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3054460688.html">
+<title><![CDATA[schwinn exercise bike (19074) $50]]></title>
+<link>http://philadelphia.craigslist.org/bik/3054460688.html</link>
+<description><![CDATA[This is a used exercise bike that works great.  The seat shows some wear but doesn't have any cracks that I know of.  Please e-mail with any questions.  Delivery is available if you're willing to cover my gas.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=19074 -->Location: 19074</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:40:05-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3054460688.html</dc:source>
+<dc:title><![CDATA[schwinn exercise bike (19074) $50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:40:05-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3015951974.html">
+<title><![CDATA[boys bike, 10" frame, silver (penn valley) $7]]></title>
+<link>http://philadelphia.craigslist.org/bik/3015951974.html</link>
+<description><![CDATA[This is a well used bike with all working parts.  Cash only.  No training wheels.  Can meet between South Phili and Devon.  Call or text 215-519-3098<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=penn valley -->Location: penn valley</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:32:38-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3015951974.html</dc:source>
+<dc:title><![CDATA[boys bike, 10" frame, silver (penn valley) $7]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:32:38-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3047669651.html">
+<title><![CDATA[Very Tall Vintage Fuji (Coatesville) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3047669651.html</link>
+<description><![CDATA[I have for sale a 64 cm Fuji 12 speed bike.  I am 6' 3" and would not recommend this bike to anyone shorter than that.  It was recently tuned up and is in great shape.  I put on slightly wider than normal tires for a smoother ride in the city.  Both tires were replaced and have about 150 miles on them.  Weight is about 28 pounds all told.  I am selling because I recently upgraded and want someone else to enjoy a bike that has many good miles still to give.<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Coatesville -->Location: Coatesville</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:32:15-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3047669651.html</dc:source>
+<dc:title><![CDATA[Very Tall Vintage Fuji (Coatesville) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:32:15-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3015931840.html">
+<title><![CDATA[10 inch frame boys bike, used (Penn Valley) $7]]></title>
+<link>http://philadelphia.craigslist.org/bik/3015931840.html</link>
+<description><![CDATA[Well used but in working condition.  No training wheels.  Cash only.   Can deliver between South Phili and Devon.  call or text 215-519-3098<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Penn Valley -->Location: Penn Valley</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:31:31-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3015931840.html</dc:source>
+<dc:title><![CDATA[10 inch frame boys bike, used (Penn Valley) $7]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:31:31-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059433650.html">
+<title><![CDATA[2 bikes for sale (oaklyn nj)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059433650.html</link>
+<description><![CDATA[ihave onr sting ray chopper for 70 and ihave one normal thruster bike for 50 please text 856 426 3996<br>
+<br>
+<br>
+boy bikes<br>
+<br>
+<br>
+<br>
+or best offer<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=oaklyn nj -->Location: oaklyn nj</li>
+<li><!-- CLTAG outsideContactOK=on -->it's ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:26:35-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059433650.html</dc:source>
+<dc:title><![CDATA[2 bikes for sale (oaklyn nj)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:26:35-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059420071.html">
+<title><![CDATA[Nishiki mens Tall 10 Speed Road Bike 64cm (outside phila) $150]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059420071.html</link>
+<description><![CDATA[Nishiki mens tall 10 speed Road Bike.  Brand new front and rear tires.  Drop road handlebars. Lugged frame. 27 inch wheels. Nice rider.<br>
+<br>
+Tall frame<br>
+<br>
+35 inch standover height<br>
+Frame size is 24 inches (64cm) <br>
+<br>
+<a href="http://s1133.photobucket.com/albums/m589/tpm001/?action=view&amp;current=009-1.jpg" target="_blank" rel="nofollow"><img src="http://i1133.photobucket.com/albums/m589/tpm001/009-1.jpg" border="0" alt="Photobucket"></a><br>
+<br>
+<a href="http://s1133.photobucket.com/albums/m589/tpm001/?action=view&amp;current=012-1.jpg" target="_blank" rel="nofollow"><img src="http://i1133.photobucket.com/albums/m589/tpm001/012-1.jpg" border="0" alt="Photobucket"></a><!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=outside phila -->Location: outside phila</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:20:48-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059420071.html</dc:source>
+<dc:title><![CDATA[Nishiki mens Tall 10 Speed Road Bike 64cm (outside phila) $150]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:20:48-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059411091.html">
+<title><![CDATA[Schwinn Traveller III (Cherry Hill) $85]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059411091.html</link>
+<description><![CDATA[I have a Schwinn Traveller III frame that im selling. you'll get the frame, cranks, stem, fork, seatpost, and the wheels if you want them. the wheels arent in great shape so im not trying to unload them on you. take a look at em if you want, the back wheel and gears are in good enough shape that a little elbow grease would get it going again. <br>
+The cranks are straight and the BB is solid and spins smoothly. <br>
+<br>
+the frame aint in mint condition, but the only problems are surface scratches of the paint (I bought the bike with the intention of re-painting it anyway) and only very little rust around the scratches.<br>
+the frame is 65.5 cm from BB to seat-post (not sure how to size a bike other than that)<br>
+<br>
+if you want you can text me at 856-296-3883<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Cherry Hill -->Location: Cherry Hill</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:16:59-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059411091.html</dc:source>
+<dc:title><![CDATA[Schwinn Traveller III (Cherry Hill) $85]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:16:59-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059404580.html">
+<title><![CDATA[SPECIALIZED HARDROCK (Willow Grove) $375]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059404580.html</link>
+<description><![CDATA[I believe its  2008 . Specialized Hardrock XC Mountain bike for sale. In EXCELLENT condition......Only ridden a couple of times. Been in storage . An AWESOME bike !!!~ $375.00 or BEST OFFER . Thanks for looking !<!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li> <!-- CLTAG GeographicArea=Willow Grove -->Location: Willow Grove</li>
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:14:08-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059404580.html</dc:source>
+<dc:title><![CDATA[SPECIALIZED HARDROCK (Willow Grove) $375]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:14:08-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059401857.html">
+<title><![CDATA[Brooks Saddle classic (Temple) - $50]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059401857.html</link>
+<description><![CDATA[Its has some years on it, but the leather is in well-aged shape. If I rode more on it, I would strap or buckle the front leather down, I've seen friends professionally cut the saddle into a thinner shape, which would do the small front patch of missing leather a lot of justice, either way its a fine saddle with a lot of life left in it, it just has charactor - Will trade/sell - Looking for a longboard <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:12:57-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059401857.html</dc:source>
+<dc:title><![CDATA[Brooks Saddle classic (Temple) - $50]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:12:57-04:00</dcterms:issued>
+</item>
+<item rdf:about="http://philadelphia.craigslist.org/bik/3059394495.html">
+<title><![CDATA[Fix wheel italian primato on campagnolo (temple)]]></title>
+<link>http://philadelphia.craigslist.org/bik/3059394495.html</link>
+<description><![CDATA[Rear wheel in decent shape, spins like a dream - 16t 16 tooth cog fixed on a Italian Primato hub with a capagnolo rim - Will trade for a decent flip-flop fixed/freewheel rear 700c wheel <!-- START CLTAGS -->
+<br>
+<ul class="blurbs">
+<li>it's NOT ok to contact this poster with services or other commercial interests</li></ul>
+<!-- END CLTAGS -->]]></description>
+<dc:date>2012-06-05T16:09:52-04:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright &#x26;copy; 2012 craigslist, inc.</dc:rights>
+<dc:source>http://philadelphia.craigslist.org/bik/3059394495.html</dc:source>
+<dc:title><![CDATA[Fix wheel italian primato on campagnolo (temple)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2012-06-05T16:09:52-04:00</dcterms:issued>
+</item>
+</rdf:RDF>
