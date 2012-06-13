@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC  "-//Hibernate/Hibernate Mapping DTD//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping default-lazy="false">
+
+    <class name="org.khill.feedsearch.dto.Feed" table="synd_feed">
+        <id name="id" column="feed_id" type="java.lang.Long">
+            <generator class="sequence">
+                <param name="sequence">synd_feed_feed_id_seq</param>
+            </generator>
+        </id>
+        <property name="name" column="name" />
+        <property name="URL" column="url" />
+        <property name="enabled" column="enabled" type="java.lang.Boolean"/>
+        <property name="creationDate" column="created_on" />
+        <property name="modificationDate" column="updated_on" />
+    </class>
+
+    <class name="org.khill.feedsearch.dto.User" table="user_account">
+        <id name="id" column="user_id" type="java.lang.Long">
+            <generator class="sequence">
+                <param name="sequence">user_account_user_id_seq</param>
+            </generator>
+        </id>
+        <property name="emailAddress" column="email_address" />
+        <property name="encryptedPassword" column="enc_password" />
+        <property name="name" column="name" />
+        <property name="enabled" column="enabled" />
+        <property name="creationDate" column="created_on" />
+        <property name="modificationDatre" column="updated_on" />
+    </class>
+
+</hibernate-mapping>
